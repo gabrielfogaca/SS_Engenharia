@@ -66,7 +66,7 @@ function Services() {
         whileInView="onscreen"
         viewport={{ once: true, amount: 0.8 }}
       >
-        <div className="relative mt-20 mb-8 ml-4 sm:ml-8 md:ml-16 lg:mt-20 lg:mb-8 lg:ml-52 xl:text-xl">
+        <div className="relative mt-20 mb-8 ml-4 sm:ml-8 md:ml-16 lg:mt-20 lg:mb-8 lg:ml-52 xl:text-xl xl:ml-80">
           <span className="Quemsomos absolute top-0 text-4xl sm:text-5xl md:text-6xl uppercase decoration-indigo-500/30 text-left">
             Serviços Disponíveis
           </span>
@@ -131,7 +131,7 @@ function Services() {
         />
 
         <motion.div className="w-full md:w-1/3 py-4 mb-96">
-          <ul className="list-none pl-5 space-y-2 sm:text-xs md:text-xs lg:text-xs xl:text-xl 2xl:text-xl 2xl:mt-16 md:-mt-10 lg:mt-2 xl:mt-2 sm:-mt-96 apresentacao2">
+          <ul className="list-none pl-5 space-y-2 sm:text-xs md:text-xs lg:text-xs xl:text-xl 2xl:text-xl 2xl:mt-17 2xl:mr-36 2xl:mt-20 md:-mt-10 lg:mt-2 xl:mt-2 sm:-mt-96 apresentacao2">
             <li className="shadow-md rounded-lg p-2 sm:text-xs md:text-xs lg:text-xs xl:text-xl">
               Laudos Técnicos
             </li>
