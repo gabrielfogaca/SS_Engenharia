@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7a3efa51.css",
-    "main.js": "/static/js/main.37bf1468.js",
+    "main.js": "/static/js/main.0ceef5b1.js",
     "static/js/453.7335ca36.chunk.js": "/static/js/453.7335ca36.chunk.js",
     "static/media/img16.png": "/static/media/img16.fbdf274caeb59d211069.png",
     "static/media/projeto4.jpg": "/static/media/projeto4.610320b76fb55061c0cf.jpg",
@@ -14,6 +14,7 @@
     "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.a4d410dfda20e10f3aed.ttf",
     "static/media/Anton-Regular.ttf": "/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
     "static/media/DancingScript-VariableFont_wght.ttf": "/static/media/DancingScript-VariableFont_wght.d02a1ee17643667e9808.ttf",
+    "static/media/ssmobile.png": "/static/media/ssmobile.3ff1a21f4956df72b7aa.png",
     "static/media/BaskervvilleSC-Regular.ttf": "/static/media/BaskervvilleSC-Regular.a88c4f45f3b148c8ae39.ttf",
     "static/media/logo2.jpeg": "/static/media/logo2.0b95d6ab3db31ccd4f4d.jpeg",
     "static/media/empresa3.jpg": "/static/media/empresa3.038e29e766aa500d4df5.jpg",
@@ -34,11 +35,11 @@
     "static/media/linkedinblack.svg": "/static/media/linkedinblack.7b175a23e7cc2ef45bd19ea9b7ca9777.svg",
     "static/media/facebookblack.svg": "/static/media/facebookblack.f47990168b9df21a0cff617996edd963.svg",
     "main.7a3efa51.css.map": "/static/css/main.7a3efa51.css.map",
-    "main.37bf1468.js.map": "/static/js/main.37bf1468.js.map",
+    "main.0ceef5b1.js.map": "/static/js/main.0ceef5b1.js.map",
     "453.7335ca36.chunk.js.map": "/static/js/453.7335ca36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a3efa51.css",
-    "static/js/main.37bf1468.js"
+    "static/js/main.0ceef5b1.js"
   ]
 }
