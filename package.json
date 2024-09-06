@@ -1,8 +1,8 @@
 {
-  "homepage": "https://gabrielfogaca.github.io/SS_Engenharia",
-  "name": "ss",
+  "homepage": "https://sabrinaschreiberengenharia.com.br",
+  "name": "ss_engenharia",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@expo-google-fonts/dancing-script": "^0.2.3",
     "@material-tailwind/react": "^2.1.10",
