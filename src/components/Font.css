@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+@font-face {
+  font-family: Dancing;
+  src: url(fonts/DancingScript-VariableFont_wght.ttf);
+}
+.Dancing {
+  font-family: Dancing;
+}
+
+@font-face {
+  font-family: Palito;
+  src: url(fonts/Roboto-Thin.ttf);
+}
+.Palito {
+  font-family: Palito;
+}
+
+@font-face {
+  font-family: Quemsomos;
+  src: url(fonts/BebasNeue-Regular.ttf);
+}
+.Quemsomos {
+  font-family: Quemsomos;
+}
+
+@font-face {
+  font-family: Anton;
+  src: url(fonts/Anton-Regular.ttf);
+}
+.Anton {
+  font-family: Anton;
+}
+
+@font-face {
+  font-family: Baske;
+  src: url(fonts/BaskervvilleSC-Regular.ttf);
+}
+.Baske {
+  font-family: Baske;
+}
+
+@font-face {
+  font-family: Oswald;
+  src: url(fonts/Oswald-VariableFont_wght.ttf);
+}
+.Oswald {
+  font-family: Oswald;
+}
+
+@font-face {
+  font-family: Economica;
+  src: url(fonts/Economica-Regular.ttf);
+}
+.Economica {
+  font-family: Economica;
+}
