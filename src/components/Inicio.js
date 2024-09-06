@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import img18 from './img/img18.jpeg';
 import background from './img/background.jpeg';
+import ssmobile from './img/ssmobile.png';
 import logo2 from './img/logo2.jpeg';
 import projeto from './img/projeto4.jpg';
 import { motion, useScroll } from 'framer-motion';
@@ -56,8 +57,6 @@ function Inicio() {
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundAttachment: 'fixed',
-            width: '100vw',
-            height: '100vh',
           }}
         ></div>
       ) : (
@@ -69,12 +68,7 @@ function Inicio() {
             backgroundPosition: 'left',
             backgroundRepeat: 'no-repeat',
           }}
-        >
-          <div>
-            <p>Largura da janela: {windowSize.width}px</p>
-            <p>Altura da janela: {windowSize.height}px</p>
-          </div>
-        </div>
+        ></div>
       )}
     </>
   );
