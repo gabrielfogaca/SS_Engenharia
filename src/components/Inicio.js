@@ -51,11 +51,9 @@ function Inicio() {
     <>
       {windowSize.width < 740 ? (
         <div
-          className="flex justify-center items-center bg-fixed bg-no-repeat bg-cover min-h-screen static"
+          className="justify-center items-center bg-fixed h-screen static"
           style={{
             backgroundImage: `url(${ssmobile})`,
-            backgroundSize: 'cover',
-            backgroundPosition: 'center',
             backgroundAttachment: 'fixed',
           }}
         ></div>

@@ -7,7 +7,7 @@ import './Service.css';
 
 const Text1: Variants = {
   offscreen: {
-    x: 50,
+    x: 0,
     opacity: 0,
   },
   onscreen: {
@@ -21,7 +21,7 @@ const Text1: Variants = {
 };
 
 const textVariant = {
-  offscreen: { opacity: 0, x: 10 },
+  offscreen: { opacity: 0, x: 0 },
   onscreen: {
     opacity: 1,
     x: 0,
@@ -33,7 +33,7 @@ const textVariant = {
 };
 
 const imageVariant = {
-  offscreen: { opacity: 0, y: 10 },
+  offscreen: { opacity: 0, y: 0 },
   onscreen: {
     opacity: 1,
     y: 0,
@@ -45,7 +45,7 @@ const imageVariant = {
 };
 
 const FirstText = {
-  offscreen: { opacity: 0, y: 50 },
+  offscreen: { opacity: 0, y: 0 },
   onscreen: {
     opacity: 1,
     y: 0,
