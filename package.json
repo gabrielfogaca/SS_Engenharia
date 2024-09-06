@@ -2,7 +2,7 @@
   "homepage": "http://gabrielfogaca.github.io/SS_Engenharia",
   "name": "ss",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@expo-google-fonts/dancing-script": "^0.2.3",
     "@material-tailwind/react": "^2.1.10",
