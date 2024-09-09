@@ -23,13 +23,25 @@ function SimpleFooter() {
 
           {/* Redes Sociais */}
           <div className="flex flex-wrap items-center mb-6 text-gray-500 sm:mb-0 dark:text-gray-400 uppercase">
-            <a href="#" className="me-4 md:me-6 flex">
+            <a
+              href="https://www.instagram.com/eng.sabrinaschreiber/"
+              target="blank"
+              className="me-4 md:me-6 flex"
+            >
               <Instagram className="w-6 h-6 sm:w-8 sm:h-8 mr-1"></Instagram>
             </a>
-            <a href="#" className="me-4 md:me-6 flex">
+            <a
+              href="https://www.facebook.com/eng.sabrinaschreiber"
+              target="blank"
+              className="me-4 md:me-6 flex"
+            >
               <Facebook className="w-6 h-6 sm:w-8 sm:h-8 mr-1"></Facebook>
             </a>
-            <a href="#" className="me-4 md:me-6 flex">
+            <a
+              href="https://www.linkedin.com/in/sabrina-schreiber-jesus-822807201/"
+              target="blank"
+              className="me-4 md:me-6 flex"
+            >
               <Linkedin className="w-6 h-6 sm:w-8 sm:h-8 mr-1"></Linkedin>
             </a>
           </div>

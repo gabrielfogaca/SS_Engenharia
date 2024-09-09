@@ -1,5 +1,6 @@
 import React from 'react';
 import img14 from './img/img14.png';
+import img1 from './img/img15.jpeg';
 import logo1 from './img/logo1.jpeg';
 import { motion, useScroll } from 'framer-motion';
 import './Font.css';
