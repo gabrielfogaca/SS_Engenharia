@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.3532da19.css",
-    "main.js": "/static/js/main.f9659b28.js",
+    "main.css": "/static/css/main.7415c157.css",
+    "main.js": "/static/js/main.8f93fdc4.js",
     "static/js/453.7335ca36.chunk.js": "/static/js/453.7335ca36.chunk.js",
-    "static/media/img16.png": "/static/media/img16.fbdf274caeb59d211069.png",
     "static/media/projeto4.jpg": "/static/media/projeto4.610320b76fb55061c0cf.jpg",
     "static/media/img11.png": "/static/media/img11.26569e83dfeefa86ff3a.png",
     "static/media/background.jpeg": "/static/media/background.83306fc53e59b85f8e26.jpeg",
+    "static/media/img16.png": "/static/media/img16.8fb9a45e2d2db7a266fd.png",
     "static/media/img14.png": "/static/media/img14.8c477c4f88f1b168ffc3.png",
     "static/media/img18.jpeg": "/static/media/img18.7e214cd8996fc9e5e0af.jpeg",
     "static/media/img19.png": "/static/media/img19.55b41da2827f4e67cf27.png",
@@ -14,6 +14,7 @@
     "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.a4d410dfda20e10f3aed.ttf",
     "static/media/Anton-Regular.ttf": "/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
     "static/media/DancingScript-VariableFont_wght.ttf": "/static/media/DancingScript-VariableFont_wght.d02a1ee17643667e9808.ttf",
+    "static/media/img15.jpeg": "/static/media/img15.61c95ef159b53997bde3.jpeg",
     "static/media/BaskervvilleSC-Regular.ttf": "/static/media/BaskervvilleSC-Regular.a88c4f45f3b148c8ae39.ttf",
     "static/media/logo2.jpeg": "/static/media/logo2.0b95d6ab3db31ccd4f4d.jpeg",
     "static/media/empresa3.jpg": "/static/media/empresa3.038e29e766aa500d4df5.jpg",
@@ -23,6 +24,7 @@
     "static/media/empresa5.jpg": "/static/media/empresa5.e0a822558c572600c1ff.jpg",
     "static/media/empresa1.jpg": "/static/media/empresa1.ed243346165c55e9daf0.jpg",
     "static/media/empresa6.jpg": "/static/media/empresa6.e7550d763724cf02cba1.jpg",
+    "static/media/empresa7.jpg": "/static/media/empresa7.9b519ddc223e937cfba7.jpg",
     "static/media/bgresized.jpeg": "/static/media/bgresized.2eac5dcce7aeace631dd.jpeg",
     "static/media/Economica-Regular.ttf": "/static/media/Economica-Regular.4bafcc8d372fc0337e66.ttf",
     "static/media/empresa4.jpg": "/static/media/empresa4.280e76fbe82898b344b0.jpg",
@@ -30,16 +32,16 @@
     "static/media/graduating.svg": "/static/media/graduating.0714151fa78b885642b5645cf726d6b5.svg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/wppblack2.svg": "/static/media/wppblack2.2ff00631d8aa86bf660b6fe9fbaea246.svg",
-    "index.html": "/index.html",
     "static/media/instagramblack.svg": "/static/media/instagramblack.a0943643c0d5afa017fc7fae53fca463.svg",
     "static/media/linkedinblack.svg": "/static/media/linkedinblack.7b175a23e7cc2ef45bd19ea9b7ca9777.svg",
+    "index.html": "/index.html",
     "static/media/facebookblack.svg": "/static/media/facebookblack.f47990168b9df21a0cff617996edd963.svg",
-    "main.3532da19.css.map": "/static/css/main.3532da19.css.map",
-    "main.f9659b28.js.map": "/static/js/main.f9659b28.js.map",
+    "main.7415c157.css.map": "/static/css/main.7415c157.css.map",
+    "main.8f93fdc4.js.map": "/static/js/main.8f93fdc4.js.map",
     "453.7335ca36.chunk.js.map": "/static/js/453.7335ca36.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3532da19.css",
-    "static/js/main.f9659b28.js"
+    "static/css/main.7415c157.css",
+    "static/js/main.8f93fdc4.js"
   ]
 }
