@@ -31,7 +31,7 @@ function SimpleFooter() {
               <Instagram className="w-6 h-6 sm:w-8 sm:h-8 mr-1"></Instagram>
             </a>
             <a
-              href="https://www.facebook.com/eng.sabrinaschreiber"
+              href="https://www.facebook.com/profile.php?id=61565196855155"
               target="blank"
               className="me-4 md:me-6 flex"
             >
