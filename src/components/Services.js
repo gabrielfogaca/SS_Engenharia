@@ -66,14 +66,14 @@ function Services() {
         whileInView="onscreen"
         viewport={{ once: true, amount: 0.8 }}
       >
-        <div className="relative mt-20 mb-8 ml-4 sm:ml-8 md:ml-16 lg:mt-20 lg:mb-8 lg:ml-52 xl:text-xl xl:ml-80">
-          <span className="Quemsomos absolute top-0 text-4xl sm:text-5xl md:text-6xl uppercase decoration-indigo-500/30 text-left">
+        <div className="relative flex justify-center items-center min-h-[10vh] px-4 sm:px-8 md:px-16 lg:px-20 xl:px-32 overflow-hidden text-center">
+          <span className="Quemsomos text-2xl sm:text-4xl md:text-5xl lg:text-6xl uppercase decoration-indigo-500/30 break-words w-full max-w-5xl z-10">
             Serviços Disponíveis
           </span>
         </div>
       </motion.div>
 
-      <motion.div
+      {/* <motion.div
         variants={Text1}
         initial="offscreen"
         whileInView="onscreen"
@@ -98,7 +98,7 @@ function Services() {
           alt="Sabrina"
           className="w-2/3 -mt-10 sm:mt-12 md:mt-0 md:w-1/5 lg:w-1/3 lg:visible md:visible sm:w-1/4 sm:ml-40 sm:mb-20 lg:-mr-10"
         />
-      </motion.div>
+      </motion.div> */}
 
       <div className="container max-xl mx-auto flex flex-col md:flex-row items-start p-4">
         <motion.div className="w-full md:w-1/3 py-4">

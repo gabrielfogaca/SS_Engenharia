@@ -47,7 +47,7 @@ const arrayavaliacao = [
 function Avaliacoes() {
   return (
     <div
-      className="flex space-x-4 sm:space-x-8 md:space-x-12 lg:space-x-16 overflow-hidden group -mt-10 sm:-mt-16 md:-mt-20"
+      className="flex space-x-4 sm:space-x-8 md:space-x-12 lg:space-x-16 overflow-hidden group sm:-mt-16 md:-mt-20"
       id="services"
     >
       <div className="flex space-x-4 sm:space-x-8 md:space-x-12 lg:space-x-16 gap-2 sm:gap-4 mb-8 animate-loop-scroll">
