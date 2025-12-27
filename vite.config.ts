@@ -4,8 +4,8 @@ import tailwindcss from '@tailwindcss/vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  // Configurado para o repositório: ss_engenharia
-  base: '/ss_engenharia/',
+  // Configurado para o repositório: SS_Engenharia
+  base: '/SS_Engenharia/',
   
   plugins: [react(), tailwindcss()],
   resolve: {
