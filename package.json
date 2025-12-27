@@ -88,7 +88,6 @@
     "overrides": {
       "vite": "6.3.5"
     }
-  },
-  "predeploy": "cross-env GITHUB_PAGES=true vite build"
+  }
 
 }
