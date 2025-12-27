@@ -1,8 +1,8 @@
 import { Card } from "./ui/card";
 import { FadeIn } from "./FadeIn";
 // Para desenvolvimento local: substitua pelas imagens dos projetos
-const regularizacaoImage = "/SS_Engenharia/images/matricula.png";
-const projetosDiversosImage = "/SS_Engenharia/images/projetosDiversos.jpg";
+const regularizacaoImage = "/images/matricula.png";
+const projetosDiversosImage = "/images/projetosDiversos.jpg";
 
 export function Projects() {
   const projects = [

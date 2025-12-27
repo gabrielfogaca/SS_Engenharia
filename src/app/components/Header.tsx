@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 import { Button } from './ui/button';
 // Para desenvolvimento local: substitua pela URL da sua logo
-const logoSimple = 'public/images/logo1.jpeg';
+const logoSimple = '/images/logo1.jpeg';
 
 export function Header() {
   const [isScrolled, setIsScrolled] = useState(false);

@@ -1,7 +1,7 @@
 import { CircleCheck } from 'lucide-react';
 import { FadeIn } from './FadeIn';
 // Para desenvolvimento local: substitua pela foto da Sabrina
-const aboutImage = '/SS_Engenharia/images/sobre.jpg';
+const aboutImage = '/images/sobre.jpg';
 
 export function About() {
   const values = [

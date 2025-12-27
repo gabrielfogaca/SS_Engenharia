@@ -1,12 +1,12 @@
 import { motion } from 'motion/react';
 // Para desenvolvimento local: substitua pelas logos das empresas parceiras
-const bernardiLogo = '/SS_Engenharia/images/empresa1.jpg';
-const stabilizeLogo = '/SS_Engenharia/images/empresa2.jpg';
-const natiHintzLogo = '/SS_Engenharia/images/empresa3.jpg';
-const imobiliariaLiderLogo = '/SS_Engenharia/images/empresa4.jpg';
-const geoeLogo = '/SS_Engenharia/images/empresa5.jpg';
-const donattoLogo = '/SS_Engenharia/images/empresa6.jpg';
-const mdEletricasLogo = '/SS_Engenharia/images/empresa7.jpg';
+const bernardiLogo = '/images/empresa1.jpg';
+const stabilizeLogo = '/images/empresa2.jpg';
+const natiHintzLogo = '/images/empresa3.jpg';
+const imobiliariaLiderLogo = '/images/empresa4.jpg';
+const geoeLogo = '/images/empresa5.jpg';
+const donattoLogo = '/images/empresa6.jpg';
+const mdEletricasLogo = '/images/empresa7.jpg';
 const partners = [
   { name: 'Bernardi, Schwerz & Rohenkohl', logo: bernardiLogo },
   { name: 'Stabilize Engenharia Estrutural', logo: stabilizeLogo },

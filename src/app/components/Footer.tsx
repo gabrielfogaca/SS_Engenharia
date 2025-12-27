@@ -1,6 +1,6 @@
 import { Instagram, Linkedin, Mail } from 'lucide-react';
 // Para desenvolvimento local: substitua pela logo da empresa
-const logo = 'public/images/logo2.jpeg';
+const logo = '/images/logo2.jpeg';
 
 export function Footer() {
   const currentYear = new Date().getFullYear();

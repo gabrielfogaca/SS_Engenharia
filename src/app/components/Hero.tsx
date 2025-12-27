@@ -2,7 +2,7 @@ import { ArrowRight } from 'lucide-react';
 import { Button } from './ui/button';
 import { motion } from 'motion/react';
 // Para desenvolvimento local: substitua pela URL da imagem do seu escritório
-const heroBackground = '/SS_Engenharia/images/background.jpeg';
+const heroBackground = '/images/background.jpeg';
 
 export function Hero() {
   const scrollToContact = () => {
