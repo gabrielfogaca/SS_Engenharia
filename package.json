@@ -6,9 +6,10 @@
   "scripts": {
   "dev": "vite",
   "build": "vite build",
-  "predeploy": "vite build",
+  "predeploy": "GITHUB_PAGES=true vite build",
   "deploy": "gh-pages -d dist"
-  },
+}
+,
   "dependencies": {
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.1",
