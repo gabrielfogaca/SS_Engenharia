@@ -2,7 +2,7 @@ import { Card } from "./ui/card";
 import { FadeIn } from "./FadeIn";
 // Para desenvolvimento local: substitua pelas imagens dos projetos
 const regularizacaoImage = "/images/matricula.png";
-const projetosDiversosImage = "/images/projetosDiversos.jpg";
+const projetosDiversosImage = "/images/projetosdiversos.jpg";
 
 export function Projects() {
   const projects = [
