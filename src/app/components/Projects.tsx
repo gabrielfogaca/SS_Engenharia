@@ -1,8 +1,8 @@
 import { Card } from "./ui/card";
 import { FadeIn } from "./FadeIn";
 // Para desenvolvimento local: substitua pelas imagens dos projetos
-const regularizacaoImage = "public/images/matricula.png";
-const projetosDiversosImage = "public/images/projetosDiversos.jpg";
+const regularizacaoImage = "/SS_Engenharia/images/matricula.png";
+const projetosDiversosImage = "/SS_Engenharia/images/projetosDiversos.jpg";
 
 export function Projects() {
   const projects = [
@@ -16,10 +16,10 @@ export function Projects() {
     },
     {
       title: "Projetos Diversos",
-      category: "Multidisciplinar",
+      category: "",
       image: projetosDiversosImage,
       description:
-        "Desenvolvimento de projetos multidisciplinares abrangendo estrutura, arquitetura, elétrica, hidráulica e planejamento integrado.",
+        "Desenvolvimento de projetos abrangendo estrutura, arquitetura, elétrica, hidráulica e planejamento integrado.",
     },
     {
       title: "Reforma e Ampliação",

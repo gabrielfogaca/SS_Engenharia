@@ -1,7 +1,7 @@
 import { FadeIn } from './FadeIn';
 import { Award, Users, Target } from 'lucide-react';
 // Para desenvolvimento local: substitua pela imagem de expertise
-const expertiseImage = 'public/images/expertise.jpeg';
+const expertiseImage = '/SS_Engenharia/images/expertise.jpeg';
 
 export function Expertise() {
   const highlights = [
