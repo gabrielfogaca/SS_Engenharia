@@ -16,7 +16,7 @@ export function Projects() {
     },
     {
       title: "Projetos Diversos",
-      category: "",
+      category: "Projetos de Infraestrutura e sistemas prediais",
       image: projetosDiversosImage,
       description:
         "Desenvolvimento de projetos abrangendo estrutura, arquitetura, elétrica, hidráulica e planejamento integrado.",
