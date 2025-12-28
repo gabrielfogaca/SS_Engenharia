@@ -13,7 +13,7 @@ export function Expertise() {
     {
       icon: Target,
       title: 'Precisão Técnica',
-      description: 'Uso de tecnologia de ponta para resultados perfeitos',
+      description: 'Domínio de softwares especializados e conhecimento atualizado',
     },
     {
       icon: Users,
@@ -34,16 +34,13 @@ export function Expertise() {
                   Nossa Expertise
                 </span>
               </div>
-              
+
               <h2 className="text-4xl sm:text-5xl mb-6 text-gray-900">
                 Precisão e qualidade em cada detalhe
               </h2>
-              
+
               <p className="text-lg text-gray-600 mb-12">
-                Combinamos conhecimento técnico avançado com dedicação 
-                para entregar projetos que superam expectativas. Cada 
-                medição, cada cálculo, cada decisão é tomada com o máximo 
-                rigor profissional.
+                Projetos desenvolvidos com foco em efetividade, funcionalidade e viabilidade técnica, garantindo soluções bem planejadas, execução eficiente e resultados que atendem às necessidades reais de cada cliente.
               </p>
 
               <div className="space-y-8">

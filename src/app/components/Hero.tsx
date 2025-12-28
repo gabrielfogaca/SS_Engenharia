@@ -45,8 +45,8 @@ export function Hero() {
             transition={{ duration: 0.6, delay: 0.1 }}
             className="text-5xl sm:text-6xl lg:text-7xl mb-6 text-gray-900 tracking-tight"
           >
-            Transformando ideias em{' '}
-            <span className="text-gray-600">realidade</span>
+            Assino IDEIAS, desenho {' '}
+            <span className="text-gray-600">SOLUÇÕES</span>
           </motion.h1>
           
           <motion.p

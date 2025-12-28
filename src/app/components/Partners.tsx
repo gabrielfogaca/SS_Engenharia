@@ -26,9 +26,6 @@ export function Partners() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-neutral-900 mb-2">Empresas Parceiras</h2>
-          <p className="text-neutral-600">
-            Confiança de líderes do mercado de construção civil
-          </p>
         </div>
 
         <div className="relative">

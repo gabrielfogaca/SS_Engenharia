@@ -17,7 +17,7 @@ export function Footer() {
               className="h-12 w-auto mb-4 brightness-0 invert"
             />
             <p className="text-gray-400">
-              Transformando ideias em projetos de excelência desde 2024.
+              Assino IDEIAS, desenho SOLUÇÕES. 
             </p>
           </div>
 

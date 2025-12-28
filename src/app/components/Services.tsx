@@ -13,14 +13,15 @@ import {
   Home,
   Zap,
   Droplets,
-  ArrowRight
+  ArrowRight,
+  Ruler
 } from 'lucide-react';
 import { Card } from './ui/card';
 import { FadeIn } from './FadeIn';
 
 export function Services() {
   // Número do WhatsApp da empresa (formato: código do país + DDD + número)
-  const whatsappNumber = '5551999999999'; // SUBSTITUIR pelo número real da empresa
+  const whatsappNumber = '5555992026573'; // SUBSTITUIR pelo número real da empresa
   
   const services = [
     {
@@ -34,14 +35,14 @@ export function Services() {
       description: 'Design de interiores personalizado, unindo funcionalidade e estética para ambientes únicos.',
     },
     {
-      icon: Scale,
+      icon: Ruler,
       title: 'Retificação de Áreas',
       description: 'Correção de medidas e áreas em documentação de imóveis com precisão técnica.',
     },
     {
       icon: Layers,
       title: 'Fracionamento de Áreas',
-      description: 'Divisão técnica de terrenos e propriedades conforme legislação vigente.',
+      description: 'Parcelamento de solo em conformidade com as legislações vigentes.',
     },
     {
       icon: Combine,
@@ -55,7 +56,7 @@ export function Services() {
     },
     {
       icon: FileCheck,
-      title: 'Averbações de Construção',
+      title: 'Averbação de Construção',
       description: 'Registro de construções em matrícula junto aos órgãos competentes.',
     },
     {
@@ -81,7 +82,7 @@ export function Services() {
     {
       icon: Building2,
       title: 'Projetos de Engenharia',
-      description: 'Projetos estruturais, fundações e cálculos técnicos para edificações.',
+      description: 'Projetos diversos: geotécnico, fundações, estrutural, arquitetônico, elétrico, hidráulico, esgoto sanitário, pluvial e plano de prevenção e proteção contra incêndios.',
     },
     {
       icon: Building2,
@@ -126,8 +127,7 @@ export function Services() {
               Soluções completas para seu projeto
             </h2>
             <p className="text-lg text-gray-600">
-              Oferecemos um portfólio completo de serviços em engenharia e 
-              arquitetura, atendendo todas as necessidades do seu empreendimento.
+              Ofereço um portifólio completo de serviços de engenharia, arquitetura e regularização de imóveis, atendendo todas as necessidades do seu imóvel e/ou empreendimento.
             </p>
           </div>
         </FadeIn>

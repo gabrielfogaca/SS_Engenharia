@@ -7,7 +7,7 @@ export function About() {
   const values = [
     'Excelência técnica em cada projeto',
     'Compromisso com prazos e qualidade',
-    'Inovação e sustentabilidade',
+    'Inovação e efetividade',
     'Atendimento personalizado',
   ];
 
@@ -46,13 +46,13 @@ export function About() {
               <p className="text-lg text-gray-600 mb-8">
                 Somos uma empresa especializada em soluções completas de 
                 engenharia e arquitetura, oferecendo serviços personalizados 
-                que unem funcionalidade, estética e inovação.
+                que possuem funcionalidade, estética e inovação.
               </p>
               
               <p className="text-lg text-gray-600 mb-8">
-                Com uma equipe altamente qualificada e experiência em projetos 
-                residenciais, comerciais e industriais, transformamos suas 
-                ideias em projetos sólidos e sustentáveis.
+                Com uma equipe qualificada e experiência em projetos 
+                residenciais, comerciais e regularização de imóveis, transformamos seus 
+                ideais em projetos sólidos e efetivos.
               </p>
 
               <div className="space-y-4">
